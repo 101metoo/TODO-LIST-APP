@@ -46,4 +46,4 @@ Simple Laravel + Vue 3 (Inertia + Vite) todo app with authentication.
 
 # DEMO VIDEO LINK 
 
-https://drive.google.com/file/d/14xppvcRV9plKTnpSac2cQVpxQVbhygvg/view?usp=drive_link
+https://drive.google.com/file/d/1GHdY897qRuTjT0zWuXd_p2CaMHuZ_M0E/view?usp=sharing
